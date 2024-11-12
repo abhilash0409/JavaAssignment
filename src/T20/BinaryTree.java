@@ -1,7 +1,5 @@
 package T20;
 
-
-// Definition for a binary tree node
 class TreeNode {
     int val;
     TreeNode left;
